@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">QuestTugasLayout_0083</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="nama">Gardian Athoya Rahman</string>
+    <string name="nama2">Jacki </string>
+    <string name="nama3">Inara</string>
+    <string name="nama4">Ariel</string>
+    <string name="alamat">Merak, Cilegon</string>
+    <string name="alamat2">Jaya, Cilegon</string>
+    <string name="alamat3">Kural, Cilegon</string>
+    <string name="alamat4">Dobong, Cilegon</string>
+    <string name="copy">Copyright, 2026</string>
 </resources>
